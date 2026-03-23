@@ -78,6 +78,4 @@ python3 python/database_sync.py
 
 ## Author
 
-**Student Name:** [Your Full Name]  
-**Student ID:** [Your Student ID]  
-**GitHub:** [Your GitHub URL]
+**Student Name:** Venky Patel Bonagiri  
