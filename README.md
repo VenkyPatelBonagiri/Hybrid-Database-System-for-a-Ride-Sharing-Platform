@@ -31,7 +31,6 @@ RideSharing-Hybrid-Database/
 ├── python/
 │   ├── database_sync.py    # MySQL ↔ MongoDB integration
 │   └── requirements.txt    # Python dependencies
-├── screenshots/            # Output screenshots for report
 └── README.md
 ```
 
