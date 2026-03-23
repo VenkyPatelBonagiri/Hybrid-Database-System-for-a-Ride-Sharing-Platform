@@ -78,4 +78,4 @@ python3 python/database_sync.py
 
 ## Author
 
-**Student Name:** Venky Patel Bonagiri  
+Venky Patel Bonagiri(GH1044508)
