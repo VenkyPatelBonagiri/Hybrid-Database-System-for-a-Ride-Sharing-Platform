@@ -69,10 +69,11 @@ python3 python/database_sync.py
 
 ## What the Integration Does
 
-1. Reads completed trip data from **MySQL**
-2. Writes GPS tracking data into **MongoDB** `trip_locations` collection
-3. Writes ride lifecycle events into **MongoDB** `ride_logs` collection
-4. Prints a combined report pulling data from both databases simultaneously
+1. Connect to both MySQL and MongoDB.
+2. Fetch trip details (for `trip_id: 1`) from MySQL.
+3. Insert dummy real-time GPS coordinates into MongoDB's `trip_locations` collection.
+4. Insert ride lifecycle tracking events into MongoDB's `ride_logs` collection.
+
 
 ---
 
